@@ -1,0 +1,13 @@
+body {
+  background-color: #696969;
+}
+h1 {
+  color: blue;
+}
+p {
+  color: red;
+}
+.iframe-container {
+    display: flex;
+    justify-content: center; /* horizontal center */
+  }
