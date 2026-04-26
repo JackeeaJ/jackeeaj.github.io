@@ -1,13 +1,20 @@
 body {
-  background-color: #696969;
+  background-color: #AAAAAA;
+  
+}
+div {
+  max-width: 700px;
+  margin: 40px auto;
 }
 h1 {
   color: blue;
+  text-align: center;
 }
 p {
-  color: red;
+  color: black;
 }
 .iframe-container {
     display: flex;
+    max-width: 1280px;
     justify-content: center; /* horizontal center */
   }
